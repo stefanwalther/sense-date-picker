@@ -1,10 +1,8 @@
-initial-properties.js;
 lib/components/swr-date-picker/swr-date-picker.js;
 lib/components/swr-date-picker/swr-date-picker.ng.html;
 lib/css/main.css;
 lib/external/bootstrap-datepicker/bootstrap-datepicker3.standalone.min.css;
 lib/external/sense-extension-utils/extUtils.js;
-lib/js/extUtils.js;
 preview.png;
 properties.js;
 swr-date-picker.js;

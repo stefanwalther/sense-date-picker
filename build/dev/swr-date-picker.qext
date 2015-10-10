@@ -3,12 +3,12 @@
 	"description" : "Date Picker for Qlik Sense.",
 	"icon" : "extension",
 	"type" : "visualization",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"preview" : "preview.png",
 	"author": "Stefan Walther",
 	"homepage": "http://qliksite.io",
-  "keywords": "qlik-sense, visualization-extension, extension, visualization",
-  "license": "mit",
-  "repository": "https://github.com/stefanwalther/sense-date-picker",
-  "dependencies" : { "qlik-sense" : ">2.1.x" }
+  	"keywords": "qlik-sense, visualization-extension, extension, visualization",
+  	"license": "mit",
+  	"repository": "https://github.com/stefanwalther/sense-date-picker",
+  	"dependencies" : { "qlik-sense" : ">2.1.x" }
 }
