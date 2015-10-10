@@ -1,6 +1,6 @@
 {
   "name": "date-picker",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Date Picker for Qlik Sense.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
