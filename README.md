@@ -1,9 +1,12 @@
+#sense-date-picker
 
-!!!!!!!!!!!!!!!!!!!!!!
+***
 
-Don't make any changes here, use .verb.md instead then run verb.
-For more information have a look at the generator-sense-extension documentation on GitHub:
+Nothing to show yet.
+If you want to follow development progress and use early alpha-versions, here's some information:
 
-http://github.com/stefanwalther/generator-sense-extension
+* [Version 0.1.0 - First Alpha](https://github.com/stefanwalther/sense-date-picker/issues/1)
+* [Version 0.2.0 - Using Fields](https://github.com/stefanwalther/sense-date-picker/issues/2)
+* [Version 0.3.0 - Internationalization / i18n](https://github.com/stefanwalther/sense-date-picker/issues/3)
 
-!!!!!!!!!!!!!!!!!!!!!!
+Overview of all milestones [here](https://github.com/stefanwalther/sense-date-picker/milestones)
