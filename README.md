@@ -2,6 +2,10 @@
 
 ***
 
+![](docs/images/sense-date-picker-preview.png)
+
+***
+
 Nothing to show yet.
 If you want to follow development progress and use early alpha-versions, here's some information:
 

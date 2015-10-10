@@ -3,7 +3,7 @@
 	"description" : "Date Picker for Qlik Sense.",
 	"icon" : "extension",
 	"type" : "visualization",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"preview" : "preview.png",
 	"author": "Stefan Walther",
 	"homepage": "http://qliksite.io",
