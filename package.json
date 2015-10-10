@@ -1,6 +1,6 @@
 {
   "name": "date-picker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Date Picker for Qlik Sense.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,6 +18,10 @@
     "qliksense-visualization-extension",
     "visualization"
   ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanwalther/sense-date-picker/issues"
+  },
   "devDependencies": {
     "bootstrap-datepicker": "git://github.com/eternicode/bootstrap-datepicker",
     "gulp": "git://github.com/gulpjs/gulp#4.0",
