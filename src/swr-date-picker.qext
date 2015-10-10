@@ -1,0 +1,14 @@
+{
+	"name" : "Date Picker",
+	"description" : "@@pkg.description",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "@@pkg.version",
+	"preview" : "preview.png",
+	"author": "@@pkg.author.name",
+	"homepage": "@@pkg.author.homepage",
+  "keywords": "qlik-sense, visualization-extension, extension, visualization",
+  "license": "mit",
+  "repository": "https://github.com/stefanwalther/sense-date-picker",
+  "dependencies" : { "qlik-sense" : ">2.1.x" }
+}

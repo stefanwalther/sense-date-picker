@@ -1,0 +1,28 @@
+{
+  "name": "date-picker",
+  "version": "0.0.1",
+  "description": "Date Picker for Qlik Sense.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Stefan Walther",
+    "homepage": "http://qliksite.io"
+  },
+  "keywords": [
+    "qlik",
+    "qliksense",
+    "qlik-sense",
+    "qlik sense visualization extension",
+    "qlik-sense-visualization-extension",
+    "qliksense-visualization-extension",
+    "visualization"
+  ],
+  "devDependencies": {
+    "bootstrap-datepicker": "git://github.com/eternicode/bootstrap-datepicker",
+    "gulp": "git://github.com/gulpjs/gulp#4.0",
+    "sense-extension-utils": "^0.1.3",
+    "sense-go": "^0.3.3",
+    "verb": "verbose/verb"
+  }
+}
