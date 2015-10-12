@@ -1,7 +1,7 @@
 {
   "name": "date-picker",
   "version": "0.0.6",
-  "description": "Date Picker for Qlik Sense.",
+  "description": "Date Picker for Qlik Sense. (sense-date-picker)",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
