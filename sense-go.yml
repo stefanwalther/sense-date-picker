@@ -6,4 +6,4 @@ import:
   files:
     - ["./node_modules/sense-extension-utils/dist/extUtils.js", "./.tmp/lib/external/sense-extension-utils"]
     - ["./node_modules/bootstrap-datepicker/dist/css/bootstrap-datepicker3.standalone.min.css", "./.tmp/lib/external/bootstrap-datepicker"]
-    - ["./node_modules/bootstrap-datepicker/dist/bootstrap-datepicker.js", "./.tmp/lib/external/bootstrap-datepicker"]
+    - ["./node_modules/bootstrap-datepicker/dist/js/bootstrap-datepicker.js", "./.tmp/lib/external/bootstrap-datepicker"]

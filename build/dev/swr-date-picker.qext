@@ -1,13 +1,18 @@
 {
 	"name" : "Date Picker",
-	"description" : "Date Picker for Qlik Sense.",
+	"description" : "Date Picker for Qlik Sense. (sense-date-picker)",
 	"icon" : "extension",
 	"type" : "visualization",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"preview" : "preview.png",
 	"author": "Stefan Walther",
 	"homepage": "http://qliksite.io",
-  	"keywords": "qlik-sense, visualization-extension, extension, visualization",
+  	"keywords": [
+  		"qlik-sense",
+  		"visualization-extension",
+  		"extension",
+  		"visualization"
+  		],
   	"license": "mit",
   	"repository": "https://github.com/stefanwalther/sense-date-picker",
   	"dependencies" : { "qlik-sense" : ">2.1.x" }

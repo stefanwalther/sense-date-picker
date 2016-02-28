@@ -1,13 +1,15 @@
 /*global define*/
 define( [
 		'./properties',
-		'text!./swr-date-picker.ng.html'
+		'./initialproperties',
+		'text!./swr-date-picker.ng.html',
+		'./lib/components/swr-date-picker/swr-date-picker'
 	],
-	function ( props, ngTemplate ) {
+	function ( props, initProps, ngTemplate ) {
 		'use strict';
 
 		return {
-			definition: {},
+			definition: props,
 			initialProperties: {},
 			snapshot: {canTakeSnapshot: false},
 			template: ngTemplate,
