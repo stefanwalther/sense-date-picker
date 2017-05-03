@@ -1,5 +1,7 @@
 #sense-date-picker
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/stefanwalther/sense-date-picker.svg)](https://greenkeeper.io/)
+
 ***
 
 ![](docs/images/sense-date-picker-preview.png)
