@@ -24,7 +24,7 @@ define( [
 				link: function ( $scope, $element, $attrs ) {
 
 					$element.bind('click', function () {
-						angular.element($element ).datepicker();
+						angular.element( $element ).datepicker();
 					});
 
 
